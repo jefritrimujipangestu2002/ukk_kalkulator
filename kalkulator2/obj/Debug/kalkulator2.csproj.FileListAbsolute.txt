@@ -1,0 +1,18 @@
+c:\users\garry\documents\visual studio 2012\Projects\kalkulator2\kalkulator2\bin\Debug\kalkulator2.exe.config
+c:\users\garry\documents\visual studio 2012\Projects\kalkulator2\kalkulator2\bin\Debug\kalkulator2.exe
+c:\users\garry\documents\visual studio 2012\Projects\kalkulator2\kalkulator2\bin\Debug\kalkulator2.pdb
+c:\users\garry\documents\visual studio 2012\Projects\kalkulator2\kalkulator2\obj\Debug\kalkulator2.Form1.resources
+c:\users\garry\documents\visual studio 2012\Projects\kalkulator2\kalkulator2\obj\Debug\kalkulator2.Properties.Resources.resources
+c:\users\garry\documents\visual studio 2012\Projects\kalkulator2\kalkulator2\obj\Debug\kalkulator2.csproj.GenerateResource.Cache
+c:\users\garry\documents\visual studio 2012\Projects\kalkulator2\kalkulator2\obj\Debug\kalkulator2.exe
+c:\users\garry\documents\visual studio 2012\Projects\kalkulator2\kalkulator2\obj\Debug\kalkulator2.pdb
+C:\Users\Garry\Documents\Visual Studio 2012\Projects\kalkulator2\kalkulator2\obj\Debug\kalkulator2.csprojResolveAssemblyReference.cache
+D:\tugasKelas12\UKK\kk3\kalkulator2\kalkulator2\bin\Debug\kalkulator2.exe.config
+D:\tugasKelas12\UKK\kk3\kalkulator2\kalkulator2\obj\Debug\kalkulator2.exe
+D:\tugasKelas12\UKK\kk3\kalkulator2\kalkulator2\obj\Debug\kalkulator2.pdb
+D:\tugasKelas12\UKK\kk3\kalkulator2\kalkulator2\bin\Debug\kalkulator2.exe
+D:\tugasKelas12\UKK\kk3\kalkulator2\kalkulator2\bin\Debug\kalkulator2.pdb
+D:\tugasKelas12\UKK\kk3\kalkulator2\kalkulator2\obj\Debug\kalkulator2.csprojResolveAssemblyReference.cache
+D:\tugasKelas12\UKK\kk3\kalkulator2\kalkulator2\obj\Debug\kalkulator2.Form1.resources
+D:\tugasKelas12\UKK\kk3\kalkulator2\kalkulator2\obj\Debug\kalkulator2.Properties.Resources.resources
+D:\tugasKelas12\UKK\kk3\kalkulator2\kalkulator2\obj\Debug\kalkulator2.csproj.GenerateResource.Cache
